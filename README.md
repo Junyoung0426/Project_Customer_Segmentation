@@ -13,7 +13,7 @@
 7. [Observations](#observations)
 8. [Conclusion](#conclusion)
 
-## 1. Project Title: Customer Segmentation
+### 1. Project Title: Customer Segmentation
 
 ### 2. Significance
 - Customer segmentation is a vital marketing strategy.
