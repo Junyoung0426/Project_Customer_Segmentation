@@ -1,8 +1,8 @@
 # Customer Segmentation Project
 
 ## About this file":
-https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
-Customer Personality Analysis is a comprehensive examination of an ideal customer profile for a company. It serves as a valuable tool for businesses to gain deeper insights into their customer base, enabling them to tailor products and services to better match the unique needs, behaviors, and concerns of distinct customer groups.
+- https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis
+- Customer Personality Analysis is a comprehensive examination of an ideal customer profile for a company. It serves as a valuable tool for businesses to gain deeper insights into their customer base, enabling them to tailor products and services to better match the unique needs, behaviors, and concerns of distinct customer groups.
 
 This analysis empowers businesses to adapt their product offerings to cater to specific customer segments, rather than expending resources on marketing new products to all customers in their database. Instead, a company can identify the customer segment most likely to purchase a particular product and focus marketing efforts exclusively on that segment.
 ## Table of Contents
